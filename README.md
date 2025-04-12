@@ -2,6 +2,11 @@
 
 Este projeto foi desenvolvido como parte dos exercícios do curso da EBAC. Ele consiste em uma calculadora de IMC (Índice de Massa Corporal) que permite ao usuário inserir sua altura e peso, calcular o IMC e exibir a classificação correspondente.
 
+
+
+![image](https://github.com/user-attachments/assets/5260971a-6be1-488c-9986-26809552b21f)
+
+
 ## Funcionalidades
 
 - Formulário para entrada de altura e peso.
